@@ -7,6 +7,8 @@ require('request')
 require('express-session')
 require('body-parser');
 
+
+ES6 precompiler: install babel-preset
 ```
 
 ## Details
@@ -17,4 +19,11 @@ interpreter.js
 
 service.js
 	- simple api web app as a proof of concept
+```
+
+## Run
+
+To quickly try the webapp:
+```
+node service.js
 ```
