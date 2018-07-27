@@ -1,0 +1,12 @@
+{
+  "presets": [
+    "env"
+  ],
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "date-and-time": "^0.6.2",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "request": "^2.87.0"
+  }
+}
